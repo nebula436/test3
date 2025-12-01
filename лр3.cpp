@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	SetConsoleCP(1251);
+	SetConsoleCP(1251); // test comment
 	SetConsoleOutputCP(1251);
     double a, b, c, x, F;
 
